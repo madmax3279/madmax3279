@@ -7,3 +7,6 @@ function main() {
 }
 main()
 //console.log(main)
+
+console.log("hii how are you")
+console.log("hii")
